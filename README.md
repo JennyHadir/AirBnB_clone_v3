@@ -163,6 +163,6 @@ Second part of Airbnb: Joann Vuong
 
 AirBnB_Clone_V3:</br>
 Med Salah Bourouba (Brandixitor) - [Github](https://github.com/Brandixitor) </br>
-Hadir Jenny - [Github](https://github.com/JennyHadir)
+Hadir Jenny (JennyHadir) - [Github](https://github.com/JennyHadir)
 ## License
 Public Domain. No copy write protection. 
