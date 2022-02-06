@@ -158,7 +158,7 @@ No known bugs at this time.
 ## Authors
 
 AirBnB_Clone_V3:</br>
-Med Salah Bourouba [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brandixitor)
+Med Salah Bourouba [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brandixitor) </br>
 Hadir Jenny [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JennyHadir/)
 ## License
 Public Domain. No copy write protection. 
